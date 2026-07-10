@@ -2,7 +2,7 @@
 
 **Date of last update:** June 19, 2026
 
-OnThisDay collects, processes, and shares none of your personal data. The app does not have an account, has no server, nor any backend.
+OnThisDay does not collects, processes, and shares none of your personal data. The app does not have an account, has no server, nor any backend.
 
 The app obtains historical events information from the publicly accessible API of Wikipedia. Your bookmarked events are saved locally on your device and are never shared anywhere else.
 
